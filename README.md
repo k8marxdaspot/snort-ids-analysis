@@ -16,7 +16,7 @@ Intrusion Detection Systems (IDS) are an important component of modern network s
 
 📖 **Project Summary**
 
-- [Readable Summary](paper/summary.md)
+- [Readable Summary](summary.md)
 
 ## Example Snort Rule
 
