@@ -4,7 +4,7 @@ This project explores the architecture and functionality of **Snort**, an open-s
 
 The research examines how intrusion detection systems operate, how Snort processes network traffic, and how custom detection rules can be written and tested.
 
-📄 **Full Paper:** [snort-ids-analysis.pdf](paper/snort-ids-analysis.pdf)
+📄 **Full Paper:** [Full Paper (PDF)](https://github.com/k8marxdaspot/snort-ids-analysis/blob/main/paper/snort-ids-analysis.pdf)
 
 ---
 
