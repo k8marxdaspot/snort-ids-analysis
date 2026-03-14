@@ -12,11 +12,11 @@ Intrusion Detection Systems (IDS) are an important component of modern network s
 
 📄 **Research Paper**
 
-- [Full Research Paper](paper/snort-ids-analysis.pdf)
+- [Full Research Paper](https://github.com/k8marxdaspot/snort-ids-analysis/raw/main/paper/snort-ids-analysis.pdf)
 
 📖 **Project Summary**
 
-- [Readable Summary](paper/summary.md)
+- [Readable Summary](summary.md)
 
 ## Example Snort Rule
 
