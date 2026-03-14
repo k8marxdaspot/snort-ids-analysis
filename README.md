@@ -37,3 +37,21 @@ rev:1;
 - Kali Linux
 - Nmap
 - Virtual Machine networking
+
+## Future Improvements
+
+- Implement additional Snort detection rules
+- Test anomaly detection approaches
+- Analyze real network traffic datasets
+- Compare Snort with Suricata
+
+## References
+
+- Cisco Talos. *Snort 3 Rule Writing Guide*  
+  https://docs.snort.org
+
+- Scarfone, K., & Mell, P. *Guide to Intrusion Detection and Prevention Systems (NIST SP 800-94)*  
+  https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-94.pdf
+
+- IBM Security. *What is an Intrusion Detection System (IDS)?*  
+  https://www.ibm.com/think/topics/intrusion-detection-system

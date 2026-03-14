@@ -1,0 +1,7 @@
+alert tcp any any -> $HOME_NET 80
+(
+msg:"Suspicious payload detected";
+content:"malware.zip";
+sid:1000001;
+rev:1;
+)
