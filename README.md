@@ -29,6 +29,7 @@ flags: S;
 msg:"TCP SYN Flag Detected!";
 sid:1000000;
 rev:1;
+)
 ```
 ## Tools Used
 
