@@ -4,19 +4,19 @@ This project explores the architecture and functionality of Snort, an open-sourc
 
 ## Topics Covered
 
-• Intrusion Detection Systems (IDS) vs Intrusion Prevention Systems (IPS)
-• Signature-based vs anomaly-based detection
-• Snort architecture and workflow
-• Writing custom Snort rules
-• Testing detection rules in a virtual lab
+- Intrusion Detection Systems (IDS) vs Intrusion Prevention Systems (IPS)
+- Signature-based vs anomaly-based detection
+- Snort architecture and workflow
+- Writing custom Snort rules
+- Testing detection rules in a virtual lab
 
 ## Lab Setup
 
 Testing was performed using:
 
-• Kali Linux virtual machine
-• Snort running in NIDS mode
-• Nmap used to generate scanning traffic
+- Kali Linux virtual machine
+- Snort running in NIDS mode
+- Nmap used to generate scanning traffic
 
 ## Example Detection Rule
 
