@@ -41,7 +41,7 @@ msg:"TCP SYN Flag Detected!";
 sid:1000000;
 rev:1;
 )
-
+```
 This rule generates an alert whenever a TCP packet with a SYN flag is detected targeting the monitored network.
 
 ---
